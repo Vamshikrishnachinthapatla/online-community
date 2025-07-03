@@ -40,6 +40,12 @@ pip install -r requirements.txt
 
 ```
 
+---> To update the requirements :
+```bash
+pip install -U asgiref autopep8 Django django-cors-headers djangorestframework Pillow pycodestyle pytz sqlparse toml
+
+```
+
 #
 
 ### Running the App
@@ -51,6 +57,9 @@ python manage.py runserver
 ```
 
 > ⚠ Then, the development server will be started at http://127.0.0.1:8000/
+
+
+
 
 #
 
